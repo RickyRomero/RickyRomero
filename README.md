@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="insignia.png" alt="RR insignia" />
+  <img src="https://github.com/RickyRomero/RickyRomero/raw/master/insignia.png" alt="RR insignia" />
 </p>
 
 ## Hi! I'm Ricky. 👋
