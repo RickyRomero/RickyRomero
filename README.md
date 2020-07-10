@@ -4,7 +4,7 @@
 
 ## Hi! I'm Ricky. 👋
 
-[I'm a designer and frontend developer][about-homepage] in Silicon Valley, and I've been at [this whole thing][about-about] for over 15 years. My jargon soup includes riviting terms like HTML, CSS, vanilla JS, node.js, React, jQuery, SQL, Docker, Swift, SwiftUI, AppKit, UIKit, PHP, Photoshop, Illustrator, Sketch, After Effects, and so on.
+[I'm a designer and frontend developer][about-homepage] in Silicon Valley, and I've been at [this whole thing][about-about] for over 15 years. My jargon soup includes riveting terms like HTML, CSS, vanilla JS, node.js, React, jQuery, SQL, Docker, Swift, SwiftUI, AppKit, UIKit, PHP, Photoshop, Illustrator, Sketch, After Effects, and so on.
 
 Here are some of the projects I've been involved in:
 
