@@ -10,7 +10,7 @@ Here are some of the projects I've been involved in:
 
 ### QuickBooks
 
-I currently work at [Intuit][intuit], where I design and build prototype interfaces for new [QuickBooks][intuit-quickbooks] features. I also designed many marketing pages for Intuit, including [the 2014-2018 Intuit homepage][intuit-archived-homepage].
+[QuickBooks][intuit-quickbooks] is a powerful web app for accounting made by [Intuit][intuit]. At work, I design and build prototype interfaces for new QuickBooks features. I also designed many marketing pages for Intuit, including [the 2014-2018 Intuit homepage][intuit-archived-homepage].
 
 ### Konfabulator
 
@@ -22,7 +22,7 @@ I currently work at [Intuit][intuit], where I design and build prototype interfa
 
 ### Shut Up
 
-[Shut Up][shutup] is an open-source project for hiding visitor comments on all websites. It spans multiple repositories:
+[Shut Up][shutup] is an open-source project for hiding visitor comments on all websites. I built several browser extensions which cover all major browsers. The project spans multiple repositories:
 
 - [shutup.css][shutup-css]: A [user stylesheet][shutup-user-stylesheet] by [Steven Frank][shutup-stevenf], used with permission in the projects below
 - [Shut Up WebExtension][shutup-webextension]: A cross-platform extension supporting Chrome, Firefox, Edge, and Opera
