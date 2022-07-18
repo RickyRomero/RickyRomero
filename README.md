@@ -4,13 +4,15 @@
 
 ## Hi! I'm Ricky. 👋
 
-[I'm a designer and frontend developer][about-homepage] in Silicon Valley, and I've been at [this whole thing][about-about] for over 15 years. My jargon soup includes riveting terms like HTML, CSS, vanilla JS, node.js, React, jQuery, SQL, Docker, Swift, SwiftUI, AppKit, UIKit, PHP, Photoshop, Illustrator, Sketch, After Effects, and so on.
+[I'm a designer and frontend developer][about-homepage] in Silicon Valley, and I've been [at it][about-about] for over 15 years. Some of my skills include HTML, CSS, vanilla JS, node.js, React, jQuery, SQL, Docker, Swift, SwiftUI, AppKit, UIKit, PHP, Photoshop, Illustrator, Sketch, and After Effects.
+
+I just made a brand-new portfolio to showcase my most recent work. [You should take a look][about-portfolio] if your teem needs someone with these skills.
 
 Here are some of the projects I've been involved in:
 
 ### QuickBooks
 
-[QuickBooks][intuit-quickbooks] is a powerful web app for accounting made by [Intuit][intuit]. At work, I design and build prototype interfaces for new QuickBooks features. I also designed many marketing pages for Intuit, including [the 2014-2018 Intuit homepage][intuit-archived-homepage].
+[QuickBooks][intuit-quickbooks] is a powerful web app for accounting made by [Intuit][intuit]. At Intuit, I designed and built prototype interfaces for new QuickBooks features. I also designed many marketing pages, including [the 2014-2018 Intuit homepage][intuit-archived-homepage].
 
 ### Konfabulator
 
@@ -33,6 +35,7 @@ Here are some of the projects I've been involved in:
 
 [about-homepage]: https://rickyromero.com  (Ricky Romero Homepage)
 [about-about]: https://rickyromero.com/about/  (About Ricky)
+[about-portfolio]: https://hello.rickyromero.com/  (Ricky Romero's Project Portfolio)
 
 [intuit]: https://intuit.com/  (Intuit Homepage)
 [intuit-quickbooks]: https://quickbooks.intuit.com/  (QuickBooks Homepage)
