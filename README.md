@@ -6,7 +6,7 @@
 
 [I'm a designer and frontend developer][about-homepage] in Silicon Valley, and I've been [at it][about-about] for over 15 years. Some of my skills include HTML, CSS, vanilla JS, node.js, React, jQuery, SQL, Docker, Swift, SwiftUI, AppKit, UIKit, PHP, Photoshop, Illustrator, Sketch, and After Effects.
 
-I just made a ✨brand-new portfolio✨ to showcase my most recent work. [You should take a look][about-portfolio] if your teem needs someone with these skills.
+I made a ✨brand-new portfolio✨ to showcase my most recent work. [You should take a look][about-portfolio] if your teem needs someone with these skills.
 
 Here are some of the projects I've been involved in:
 
